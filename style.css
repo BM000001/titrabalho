@@ -54,6 +54,11 @@ body{justify-content:center;margin: 0;
     background-size: cover;
 
 }
+    .slider .slides:nth-child(1){
+        top: initial;
+        bottom: 0px;
+    }
+
 
 .slider .slides:nth-child(2) {
     left: calc(50% + 240px);
