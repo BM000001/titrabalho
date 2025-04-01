@@ -145,6 +145,9 @@ text-align:justify;
 }
 
 .video{
+    display:flex;
+    justify-content:center;
+    align-items:center;
 margin-left:2%;
 width:96%;
 heigh: 30vh;
